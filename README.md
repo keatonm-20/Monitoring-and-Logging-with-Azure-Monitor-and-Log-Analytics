@@ -1,4 +1,4 @@
-# Monitoring in Azure
+# Azure Monitoring & Logging with Azure Monitor and Log Analytics
 
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)
